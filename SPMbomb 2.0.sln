@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPMbomb 2.0", "SPMbomb 2.0\SPMbomb 2.0.csproj", "{BDCC7DF1-4681-4F4C-8E47-3F7622DFDFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCC7DF1-4681-4F4C-8E47-3F7622DFDFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCC7DF1-4681-4F4C-8E47-3F7622DFDFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCC7DF1-4681-4F4C-8E47-3F7622DFDFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCC7DF1-4681-4F4C-8E47-3F7622DFDFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2870D93-3988-4FA6-A0F9-EBFE0763358D}
+	EndGlobalSection
+EndGlobal
